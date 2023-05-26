@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2786acad-abf8-4295-80e7-7ea1e1e8e845": {
+      "ProjectGuid": "2786acad-abf8-4295-80e7-7ea1e1e8e845",
+      "DisplayName": "temperature_modelling",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
